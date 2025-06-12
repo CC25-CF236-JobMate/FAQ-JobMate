@@ -1,0 +1,7 @@
+flask
+transformers
+torch
+faiss-cpu
+scikit-learn
+numpy
+Flask-Cors
