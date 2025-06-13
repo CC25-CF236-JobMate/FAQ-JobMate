@@ -1,7 +1,9 @@
 flask
+Flask-Cors
 transformers
 torch
 faiss-cpu
 scikit-learn
 numpy
 Flask-Cors
+google-generativeai
