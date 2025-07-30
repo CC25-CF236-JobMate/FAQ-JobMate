@@ -586,5 +586,58 @@
       "Dengan senang hati! Kapan saja bisa bertanya lagi. Semoga berhasil mendapatkan pekerjaan yang cocok!",
       "Sama-sama! Jika butuh informasi lain, saya siap membantu lagi. Semoga sukses ya!"
     ]
+  },
+  {
+    "question": "Fitur apa saja yang ada di website JobMate?",
+    "paraphrases": [
+      "Apa saja fitur yang tersedia di JobMate?",
+      "Fitur utama di website JobMate apa aja?",
+      "Website ini punya fitur apa aja?",
+      "Bisa jelaskan fitur-fitur JobMate?",
+      "Apa keunggulan fitur di JobMate?",
+      "Fitur JobMate yang bisa digunakan apa saja?",
+      "Apa saja layanan yang ada di JobMate?",
+      "JobMate menyediakan fitur apa saja?",
+      "Fitur unggulan di JobMate apa aja?",
+      "Apa saja menu yang bisa diakses di JobMate?",
+      "Fitur-fitur yang ditawarkan JobMate apa saja?",
+      "Apa saja tools yang ada di website JobMate?",
+      "Bisa sebutkan fitur di platform JobMate?",
+      "JobMate punya fitur apa aja sih?",
+      "Apa saja fasilitas di website JobMate?",
+      "Fitur yang bisa dipakai di JobMate apa aja?",
+      "Apa saja fitur favorit di JobMate?",
+      "Menu dan fitur di JobMate apa saja?",
+      "Fitur yang tersedia di JobMate itu apa aja?",
+      "Bisa info fitur-fitur di website JobMate?",
+      "Fitur apa aja yang ada di website ini?",
+      "Website ini punya fitur apa aja sih?",
+      "Apa saja fitur yang bisa digunakan di website ini?",
+      "Fitur-fitur apa yang tersedia di web ini?",
+      "Bisa sebutkan fitur di web ini?",
+      "Apa saja menu yang ada di website ini?",
+      "Fitur utama di web ini apa aja?",
+      "Website ini menyediakan fitur apa saja?",
+      "Apa saja layanan di website ini?",
+      "Fitur unggulan di website ini apa aja?",
+      "Apa saja fasilitas yang ada di website ini?",
+      "Fitur yang bisa dipakai di web ini apa aja?",
+      "Apa saja fitur favorit di website ini?",
+      "Menu dan fitur di website ini apa saja?",
+      "Fitur yang tersedia di website ini itu apa aja?",
+      "Bisa info fitur-fitur di web ini?",
+      "Fitur di web ini apa aja?",
+      "Apa saja fitur yang bisa diakses di website ini?",
+      "Fitur-fitur yang ditawarkan website ini apa saja?",
+      "Apa saja tools yang ada di website ini?",
+      "Bisa jelaskan fitur-fitur di website ini?"
+    ],
+    "answer": "Untuk mencari lowongan, buka halaman 'Lowongan', gunakan filter seperti nama lowongan, perusahaan, kota, dan tipe pekerjaan. Untuk mencari perusahaan, buka halaman 'Perusahaan', bisa filter nama perusahaan, kota, dan jumlah lowongan aktif. Untuk rekomendasi pekerjaan, buka halaman 'Rekomendasi', pastikan profil sudah diisi soft skill dan hard skill agar rekomendasi lebih akurat. Untuk CV review, buka halaman 'CV Review', upload CV dan hasil analisis akan langsung muncul. Anda juga bisa mengedit atau menambahkan profil seperti informasi pribadi (email, no hp, kota, nama, medsos), pendidikan, pengalaman, skill, portfolio, dokumen CV dan sertifikat, serta preferensi pekerjaan. Anda bisa membuat CV sendiri dengan format ATS melalui menu 'Create CV' di dropdown menu profil. Fitur AI Interview dan Job Modul masih dalam tahap pengembangan. Untuk mengakses semua fitur JobMate, user harus login terlebih dahulu. Jika belum login, hanya bisa melihat perusahaan dan lowongan saja.",
+    "answer_paraphrases": [
+      "Fitur JobMate meliputi pencarian lowongan dengan berbagai filter, pencarian perusahaan, rekomendasi pekerjaan berbasis skill, CV review otomatis, edit dan tambah profil lengkap, pembuatan CV ATS, serta fitur AI Interview dan Job Modul yang masih dikembangkan. Semua fitur penuh bisa diakses setelah login, jika belum login hanya bisa melihat perusahaan dan lowongan.",
+      "Di JobMate kamu bisa cari lowongan kerja, filter perusahaan, dapat rekomendasi pekerjaan sesuai skill, review CV otomatis, edit profil lengkap, bikin CV ATS, dan nantinya ada AI Interview serta Job Modul. Untuk akses penuh, login dulu, kalau belum login hanya bisa lihat perusahaan dan lowongan.",
+      "Website ini menyediakan fitur pencarian lowongan, pencarian perusahaan, rekomendasi pekerjaan berbasis skill, CV review, edit profil, pembuatan CV ATS, serta fitur AI Interview dan Job Modul yang akan datang. Semua fitur bisa diakses setelah login, jika belum login hanya bisa melihat perusahaan dan lowongan.",
+      "Di website ini kamu bisa mencari lowongan kerja, filter perusahaan, dapat rekomendasi pekerjaan, review CV, edit profil, bikin CV ATS, dan nantinya ada AI Interview serta Job Modul. Untuk akses penuh, login dulu, kalau belum login hanya bisa lihat perusahaan dan lowongan."
+    ]
   }
 ]
